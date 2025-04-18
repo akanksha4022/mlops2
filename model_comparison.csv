@@ -1,0 +1,3 @@
+Model Version,Parameters,Accuracy
+model_v1,Default,1.0
+model_v2,"n_estimators=150, max_depth=4",1.0
